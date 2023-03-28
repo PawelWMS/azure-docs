@@ -111,7 +111,7 @@ You will see a response like:
 
 ```bash
 The authenticity of host 'example.com (192.30.255.112)' can't be established.
-RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+RSA key fingerprint is SHA256:uNiVztksCsDhcc0u9e8BujQXVUpKZIDTMczCvj3tD2s.
 Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added 'github.com,192.30.255.112' (RSA) to the list of known hosts.
 ```
